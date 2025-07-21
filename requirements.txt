@@ -117,7 +117,7 @@ proto-plus==1.26.1
 protobuf==4.25.3
 psutil==7.0.0
 pure_eval==0.2.3
-pyarrow==20.0.0
+pyarrow==20.0.0 --hash=sha256:5c91015dee5883b8d60f5fd8ab1d87dd0dc8236376968a511c45e485d936fc98
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycparser==2.22
