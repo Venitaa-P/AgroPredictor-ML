@@ -22,7 +22,7 @@ cffi==1.17.1 --hash=sha256:2bb1a08b8008b281856e5971307cc386a8e9c5b625ac297e853d3
 chardet==3.0.4 --hash=sha256:fc323ffcaeaed0e0a02bf4d117757b98aed530d9ed4531e3e15460124c106691
 charset-normalizer==3.4.2 --hash=sha256:8075c35cd58273fee266c58c0c9b670947c19df5fb98e7b66710e04ad4e9ff86
 click==8.1.7 --hash=sha256:ae74fb96c20a0277a1d615f1e4d73c8414f5a98db8b799a7931d1582f3390c28
-cloudpathlib==0.21.1
+cloudpathlib==0.21.1 --hash=sha256:bfe580ad72ec030472ec233cd7380701b2d3227da7b2898387bd170aa70c803c
 colorama==0.4.6
 comm==0.2.2
 confection==0.1.5
