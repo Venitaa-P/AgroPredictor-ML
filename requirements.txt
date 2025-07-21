@@ -1,6 +1,6 @@
 absl-py==2.3.0 --hash=sha256:9824a48b654a306168f63e0d97714665f8490b8d89ec7bf2efc24bf67cf579b3
 altair==5.5.0 --hash=sha256:91a310b926508d560fe0148d02a194f38b824122641ef528113d029fcd129f8c
-annotated-types==0.7.0
+annotated-types==0.7.0 --hash=sha256:1f02e8b43a8fbbc3f3e0d4f0f4bfc8131bcb4eebe8849b8e5c773f3f3a1c582a53
 anyio==4.9.0
 argon2-cffi==25.1.0
 argon2-cffi-bindings==21.2.0
