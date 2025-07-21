@@ -1,4 +1,4 @@
-absl-py==2.3.0
+absl-py==2.3.0 --hash=sha256:9824a48b654a306168f63e0d97714665f8490b8d89ec7bf2efc24bf67cf579b3
 altair==5.5.0
 annotated-types==0.7.0
 anyio==4.9.0
